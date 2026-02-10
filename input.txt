@@ -1,0 +1,5 @@
+Python is fun
+File handling is important
+Practice makes perfect
+Programming improves problem solving
+Keep learning every day
